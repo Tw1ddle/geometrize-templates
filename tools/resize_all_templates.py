@@ -21,6 +21,10 @@ def resize_and_save_image(path, width, height):
         
         im = Image.open(path)
 
+        if im.format == 'JPEG':
+            if im.width <= width and im.height <= height:
+                return # Skip images that are already the right format and size (or smaller)
+
         filepath, extension = os.path.splitext(path)
         size = (width, height)
         im.thumbnail(size, Image.LANCZOS)
