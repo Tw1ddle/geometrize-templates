@@ -1,1 +1,1 @@
-openJob(getFirstFileWithExtensions(templateDirectory, getSupportedImageFileExtensions()), false);
+openTask(getFirstFileWithExtensions(templateDirectory, getSupportedImageFileExtensions()), false);

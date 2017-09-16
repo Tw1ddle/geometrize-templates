@@ -334,4 +334,4 @@ global get_random_google_images_url = fun(searchTerm) {
     return url + searchTerm;
 }
 
-openJob(get_random_google_images_url(themed_image_search_terms[randomInRange(0, themed_image_search_terms.size())]), true);
+openTask(get_random_google_images_url(themed_image_search_terms[randomInRange(0, themed_image_search_terms.size())]), true);
