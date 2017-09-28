@@ -4,6 +4,9 @@ A set of templates used by [Geometrize](http://www.geometrize.co.uk/), a tool fo
 
 [![Geometrized Fruit](https://github.com/Tw1ddle/geometrize-templates/blob/master/screenshots/fruit.png?raw=true "Geometrized Fruit")](http://www.geometrize.co.uk/)
 
-## Usage
+## Purpose
 
-These templates aren't useful for much yet. They contain [ChaiScript](https://github.com/ChaiScript/ChaiScript) scripts, JSON settings and related data that will eventually be used to help turn sample images into shapes. Watch this space.
+These templates contain [ChaiScript](https://github.com/ChaiScript/ChaiScript) scripts, JSON settings and related data. The Geometrize app embeds these and uses them for turning images into shapes.
+
+## Notes
+ * Got an idea or suggestion? Open an issue on GitHub, or send Sam a message on [Twitter](https://twitter.com/Sam_Twidale).
