@@ -1,6 +1,6 @@
 [![Project logo](https://github.com/Tw1ddle/geometrize-templates/blob/master/screenshots/logo.png?raw=true "Geometrize Haxe Templates - recreating images as geometric shapes logo")](http://www.geometrize.co.uk/)
 
-A set of templates used by [Geometrize](http://www.geometrize.co.uk/), a tool for recreating images using geometric primitives.
+A set of templates used by [Geometrize](http://www.geometrize.co.uk/), an app for recreating images using geometric primitives.
 
 [![Geometrized Fruit](https://github.com/Tw1ddle/geometrize-templates/blob/master/screenshots/fruit.png?raw=true "Geometrized Fruit")](http://www.geometrize.co.uk/)
 
