@@ -1,1 +1,0 @@
-openTask(getFirstFileWithExtensions(templateDirectory, getSupportedImageFileExtensions()), false);
