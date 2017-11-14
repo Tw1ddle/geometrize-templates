@@ -1,0 +1,10 @@
+{
+    "shapeAlpha": 64,
+    "maxShapeMutations": 150,
+    "shapeCount": 100,
+    "shapeTypes": 6,
+    "randomSeed": 9001,
+    "maxThreads": 1,
+    "scriptModeEnabled": false,
+    "scripts": []
+}
